@@ -1,0 +1,6 @@
+{
+  "name": "Citation Engine - Academic Verification & Injection Workbench",
+  "description": "An AI-powered academic citation agent that verifies manuscript claims against RAG source material with structured JSON, detects hallucinations, and injects validated citations at cursor position.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
